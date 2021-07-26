@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>DevDocs</name>
+  </author>
+  <id>tag:devdocs.io,2014:/feed</id>
+  <link href="https://devdocs.io/feed.atom"
+    rel="self"
+    type="application/atom+xml"/>
+  <link href="https://devdocs.io/"
+    rel="alternate"
+    type="text/html"/>
+  <title>DevDocs</title>
+  <updated>2021-06-09T14:00:00Z</updated>
+  <entry>
+    <id>tag:devdocs.io,2014:News/126</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-06-09T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/r/&quot;&gt;R&lt;/a&gt;</summary>
+    <title>New documentation: R</title>
+    <updated>2021-06-09T14:00:00Z</updated>
+    <dc:date>2021-06-09T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/125</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-05-31T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/web_extensions/&quot;&gt;Web Extensions&lt;/a&gt;</summary>
+    <title>New documentation: Web Extensions</title>
+    <updated>2021-05-31T14:00:00Z</updated>
+    <dc:date>2021-05-31T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/124</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-05-26T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/latex/&quot;&gt;LaTeX&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/jq/&quot;&gt;jq&lt;/a&gt;</summary>
+    <title>New documentations: LaTeX, jq</title>
+    <updated>2021-05-26T14:00:00Z</updated>
+    <dc:date>2021-05-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/123</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-04-29T14:00:00Z</published>
+    <summary type="html">Added &lt;code class=&quot;_label&quot;&gt;alt + c&lt;/code&gt; shortcut to copy URL of original page.</summary>
+    <title>Added alt + c shortcut to copy URL of original page.</title>
+    <updated>2021-04-29T14:00:00Z</updated>
+    <dc:date>2021-04-29T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/122</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-02-26T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/react_bootstrap/&quot;&gt;React Bootstrap&lt;/a&gt;</summary>
+    <title>New documentation: React Bootstrap</title>
+    <updated>2021-02-26T14:00:00Z</updated>
+    <dc:date>2021-02-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/121</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2021-01-03T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/ocaml/&quot;&gt;OCaml&lt;/a&gt;</summary>
+    <title>New documentation: OCaml</title>
+    <updated>2021-01-03T14:00:00Z</updated>
+    <dc:date>2021-01-03T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/120</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-12-23T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/gtk/&quot;&gt;GTK&lt;/a&gt;</summary>
+    <title>New documentation: GTK</title>
+    <updated>2020-12-23T14:00:00Z</updated>
+    <dc:date>2020-12-23T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/119</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-12-07T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/flask/&quot;&gt;Flask&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/groovy/&quot;&gt;Groovy&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/jinja/&quot;&gt;Jinja&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/werkzeug/&quot;&gt;Werkzeug&lt;/a&gt;</summary>
+    <title>New documentations: Flask, Groovy, Jinja, Werkzeug</title>
+    <updated>2020-12-07T14:00:00Z</updated>
+    <dc:date>2020-12-07T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/118</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-12-04T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/haproxy/&quot;&gt;HAProxy&lt;/a&gt;</summary>
+    <title>New documentation: HAProxy</title>
+    <updated>2020-12-04T14:00:00Z</updated>
+    <dc:date>2020-12-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/117</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-11-17T14:00:00Z</published>
+    <summary type="html">TensorFlow has been split into &lt;a href=&quot;https://devdocs.io/tensorflow/&quot;&gt;TensorFlow Python&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/tensorflow_cpp/&quot;&gt;TensorFlow C++&lt;/a&gt;</summary>
+    <title>TensorFlow has been split into TensorFlow Python, TensorFlow C++</title>
+    <updated>2020-11-17T14:00:00Z</updated>
+    <dc:date>2020-11-17T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/116</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-11-14T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/pytorch/&quot;&gt;PyTorch&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/spring_boot/&quot;&gt;Spring Boot&lt;/a&gt;</summary>
+    <title>New documentations: PyTorch, Spring Boot</title>
+    <updated>2020-11-14T14:00:00Z</updated>
+    <dc:date>2020-11-14T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/115</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-01-13T14:00:00Z</published>
+    <summary type="html">New “Automatic” theme: match your browser or system dark mode setting. &lt;a href=&quot;https://devdocs.io/settings&quot;&gt;Enable it in preferences&lt;/a&gt;.</summary>
+    <title>New “Automatic” theme: match your browser or system dark mode setting. Enable it in preferences.</title>
+    <updated>2020-01-13T14:00:00Z</updated>
+    <dc:date>2020-01-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/114</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2020-01-13T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/gnuplot/&quot;&gt;Gnuplot&lt;/a&gt;</summary>
+    <title>New documentation: Gnuplot</title>
+    <updated>2020-01-13T14:00:00Z</updated>
+    <dc:date>2020-01-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/113</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2019-10-26T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/sequelize/&quot;&gt;Sequelize&lt;/a&gt;</summary>
+    <title>New documentation: Sequelize</title>
+    <updated>2019-10-26T14:00:00Z</updated>
+    <dc:date>2019-10-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/112</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2019-10-20T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/mariadb/&quot;&gt;MariaDB&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/reactivex/&quot;&gt;ReactiveX&lt;/a&gt;</summary>
+    <title>New documentations: MariaDB and ReactiveX</title>
+    <updated>2019-10-20T14:00:00Z</updated>
+    <dc:date>2019-10-20T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/111</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2019-09-02T14:00:00Z</published>
+    <summary type="html">New documentations added over the last 3 weeks: &lt;a href=&quot;https://devdocs.io/scala~2.13_library/&quot;&gt;Scala&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/wordpress/&quot;&gt;WordPress&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/cypress/&quot;&gt;Cypress&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/saltstack/&quot;&gt;SaltStack&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/composer/&quot;&gt;Composer&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/vue_router/&quot;&gt;Vue Router&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/vuex/&quot;&gt;Vuex&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/pony/&quot;&gt;Pony&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/rxjs/&quot;&gt;RxJS&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/octave/&quot;&gt;Octave&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/trio/&quot;&gt;Trio&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/django_rest_framework/&quot;&gt;Django REST Framework&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/enzyme/&quot;&gt;Enzyme&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/gnu_cobol/&quot;&gt;GnuCOBOL&lt;/a&gt;</summary>
+    <title>New documentations added over the last 3 weeks: Scala, WordPress, Cypress, SaltStack, Composer, Vue Router, Vuex, Pony, RxJS, Octave, Trio, Django REST Framework, Enzyme and GnuCOBOL</title>
+    <updated>2019-09-02T14:00:00Z</updated>
+    <dc:date>2019-09-02T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/110</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2019-07-21T14:00:00Z</published>
+    <summary type="html">Fixed several bugs, added an option to automatically download documentation and &lt;a href=&quot;https://github.com/freeCodeCamp/devdocs/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc+closed%3A%3E2019-07-18+977+988+986+870+886+1024+979+975+941+831+1005+848+942&quot; target=&quot;_blank&quot;&gt;more&lt;/a&gt;.</summary>
+    <title>Fixed several bugs, added an option to automatically download documentation and more.</title>
+    <updated>2019-07-21T14:00:00Z</updated>
+    <dc:date>2019-07-21T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/109</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2019-07-19T14:00:00Z</published>
+    <summary type="html">Replaced the AppCache with a Service Worker (which makes DevDocs an installable PWA) and fixed layout preferences on Firefox.</summary>
+    <title>Replaced the AppCache with a Service Worker (which makes DevDocs an installable PWA) and fixed layout preferences on Firefox.</title>
+    <updated>2019-07-19T14:00:00Z</updated>
+    <dc:date>2019-07-19T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/108</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-09-23T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/puppeteer/&quot;&gt;Puppeteer&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/handlebars/&quot;&gt;Handlebars.js&lt;/a&gt;</summary>
+    <title>New documentations: Puppeteer and Handlebars.js</title>
+    <updated>2018-09-23T14:00:00Z</updated>
+    <dc:date>2018-09-23T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/107</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-08-12T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/dart/&quot;&gt;Dart&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/qt/&quot;&gt;Qt&lt;/a&gt;</summary>
+    <title>New documentations: Dart and Qt</title>
+    <updated>2018-08-12T14:00:00Z</updated>
+    <dc:date>2018-08-12T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/106</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-07-29T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/bash/&quot;&gt;Bash&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/graphite/&quot;&gt;Graphite&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/pygame/&quot;&gt;Pygame&lt;/a&gt;</summary>
+    <title>New documentations: Bash, Graphite and Pygame</title>
+    <updated>2018-07-29T14:00:00Z</updated>
+    <dc:date>2018-07-29T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/105</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-07-08T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/leaflet/&quot;&gt;Leaflet&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/terraform/&quot;&gt;Terraform&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/koa/&quot;&gt;Koa&lt;/a&gt;</summary>
+    <title>New documentations: Leaflet, Terraform and Koa</title>
+    <updated>2018-07-08T14:00:00Z</updated>
+    <dc:date>2018-07-08T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/104</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-03-26T14:00:00Z</published>
+    <summary type="html">DevDocs is joining the freeCodeCamp community. Read the announcement &lt;a href=&quot;https://medium.freecodecamp.org/devdocs-is-joining-the-freecodecamp-community-ae185a1c14a6&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.</summary>
+    <title>DevDocs is joining the freeCodeCamp community. Read the announcement here.</title>
+    <updated>2018-03-26T14:00:00Z</updated>
+    <dc:date>2018-03-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/103</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2018-02-04T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/babel/&quot;&gt;Babel&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/jekyll/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/jsdoc/&quot;&gt;JSDoc&lt;/a&gt;</summary>
+    <title>New documentations: Babel, Jekyll and JSDoc</title>
+    <updated>2018-02-04T14:00:00Z</updated>
+    <dc:date>2018-02-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/102</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-11-26T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/bluebird/&quot;&gt;Bluebird&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/eslint/&quot;&gt;ESLint&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/homebrew/&quot;&gt;Homebrew&lt;/a&gt;</summary>
+    <title>New documentations: Bluebird, ESLint and Homebrew</title>
+    <updated>2017-11-26T14:00:00Z</updated>
+    <dc:date>2017-11-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/101</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-11-18T14:00:00Z</published>
+    <summary type="html">Added print &amp; PDF stylesheet.&lt;br&gt;Feedback welcome on &lt;a href=&quot;https://twitter.com/DevDocs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/freeCodeCamp/devdocs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.</summary>
+    <title>Added print &amp; PDF stylesheet.</title>
+    <updated>2017-11-18T14:00:00Z</updated>
+    <dc:date>2017-11-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/100</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-09-10T14:00:00Z</published>
+    <summary type="html">&lt;a href=&quot;https://devdocs.io/settings&quot;&gt;Preferences&lt;/a&gt; can now be exported and imported.</summary>
+    <title>Preferences can now be exported and imported.</title>
+    <updated>2017-09-10T14:00:00Z</updated>
+    <dc:date>2017-09-10T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/99</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-09-03T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/d/&quot;&gt;D&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/nim/&quot;&gt;Nim&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/vulkan/&quot;&gt;Vulkan&lt;/a&gt;</summary>
+    <title>New documentations: D, Nim and Vulkan</title>
+    <updated>2017-09-03T14:00:00Z</updated>
+    <dc:date>2017-09-03T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/98</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-07-23T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/godot/&quot;&gt;Godot&lt;/a&gt;</summary>
+    <title>New documentation: Godot</title>
+    <updated>2017-07-23T14:00:00Z</updated>
+    <dc:date>2017-07-23T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/97</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-06-04T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/electron/&quot;&gt;Electron&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/pug/&quot;&gt;Pug&lt;/a&gt;, and &lt;a href=&quot;https://devdocs.io/falcon/&quot;&gt;Falcon&lt;/a&gt;</summary>
+    <title>New documentations: Electron, Pug, and Falcon</title>
+    <updated>2017-06-04T14:00:00Z</updated>
+    <dc:date>2017-06-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/96</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-05-14T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/jest/&quot;&gt;Jest&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/jasmine/&quot;&gt;Jasmine&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/liquid/&quot;&gt;Liquid&lt;/a&gt;</summary>
+    <title>New documentations: Jest, Jasmine and Liquid</title>
+    <updated>2017-05-14T14:00:00Z</updated>
+    <dc:date>2017-05-14T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/95</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-04-30T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/openjdk/&quot;&gt;OpenJDK&lt;/a&gt;</summary>
+    <title>New documentation: OpenJDK</title>
+    <updated>2017-04-30T14:00:00Z</updated>
+    <dc:date>2017-04-30T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/94</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-02-26T14:00:00Z</published>
+    <summary type="html">Refreshed design.Added &lt;a href=&quot;https://devdocs.io/settings&quot;&gt;Preferences&lt;/a&gt;.</summary>
+    <title>Refreshed design.</title>
+    <updated>2017-02-26T14:00:00Z</updated>
+    <dc:date>2017-02-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/93</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2017-01-22T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/http/&quot;&gt;HTTP&lt;/a&gt; documentation (thanks Mozilla)</summary>
+    <title>New HTTP documentation (thanks Mozilla)</title>
+    <updated>2017-01-22T14:00:00Z</updated>
+    <dc:date>2017-01-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/92</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-12-04T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/sqlite/&quot;&gt;SQLite&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/codeception/&quot;&gt;Codeception&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/codeceptjs/&quot;&gt;CodeceptJS&lt;/a&gt;</summary>
+    <title>New documentations: SQLite, Codeception and CodeceptJS</title>
+    <updated>2016-12-04T14:00:00Z</updated>
+    <dc:date>2016-12-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/91</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-11-20T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/yarn/&quot;&gt;Yarn&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/immutable/&quot;&gt;Immutable.js&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/async/&quot;&gt;Async&lt;/a&gt;</summary>
+    <title>New documentations: Yarn, Immutable.js and Async</title>
+    <updated>2016-11-20T14:00:00Z</updated>
+    <dc:date>2016-11-20T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/90</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-10-10T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/scikit_learn/&quot;&gt;scikit-learn&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/statsmodels/&quot;&gt;Statsmodels&lt;/a&gt;</summary>
+    <title>New documentations: scikit-learn and Statsmodels</title>
+    <updated>2016-10-10T14:00:00Z</updated>
+    <dc:date>2016-10-10T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/89</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-09-18T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/pandas/&quot;&gt;pandas&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/twig/&quot;&gt;Twig&lt;/a&gt;</summary>
+    <title>New documentations: pandas and Twig</title>
+    <updated>2016-09-18T14:00:00Z</updated>
+    <dc:date>2016-09-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/88</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-09-05T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/fish/&quot;&gt;Fish&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/bottle/&quot;&gt;Bottle&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/scikit_image/&quot;&gt;scikit-image&lt;/a&gt;</summary>
+    <title>New documentations: Fish, Bottle and scikit-image</title>
+    <updated>2016-09-05T14:00:00Z</updated>
+    <dc:date>2016-09-05T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/87</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-08-07T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/docker/&quot;&gt;Docker&lt;/a&gt;</summary>
+    <title>New documentation: Docker</title>
+    <updated>2016-08-07T14:00:00Z</updated>
+    <dc:date>2016-08-07T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/86</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-07-31T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/bootstrap~3/&quot;&gt;Bootstrap 3&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/bootstrap~4/&quot;&gt;Bootstrap 4&lt;/a&gt;</summary>
+    <title>New documentations: Bootstrap 3 and Bootstrap 4</title>
+    <updated>2016-07-31T14:00:00Z</updated>
+    <dc:date>2016-07-31T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/85</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-07-24T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/julia/&quot;&gt;Julia&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/crystal/&quot;&gt;Crystal&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/redux/&quot;&gt;Redux&lt;/a&gt;</summary>
+    <title>New documentations: Julia, Crystal and Redux</title>
+    <updated>2016-07-24T14:00:00Z</updated>
+    <dc:date>2016-07-24T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/84</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-07-03T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/cmake/&quot;&gt;CMake&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/matplotlib/&quot;&gt;Matplotlib&lt;/a&gt;</summary>
+    <title>New documentations: CMake and Matplotlib</title>
+    <updated>2016-07-03T14:00:00Z</updated>
+    <dc:date>2016-07-03T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/83</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-06-19T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/love/&quot;&gt;L&amp;Ouml;VE&lt;/a&gt;</summary>
+    <title>New documentation: L&amp;Ouml;VE</title>
+    <updated>2016-06-19T14:00:00Z</updated>
+    <dc:date>2016-06-19T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/82</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-06-12T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/angular/&quot;&gt;Angular 2&lt;/a&gt;</summary>
+    <title>New documentation: Angular 2</title>
+    <updated>2016-06-12T14:00:00Z</updated>
+    <dc:date>2016-06-12T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/81</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-06-05T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/kotlin/&quot;&gt;Kotlin&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/padrino/&quot;&gt;Padrino&lt;/a&gt;</summary>
+    <title>New documentations: Kotlin and Padrino</title>
+    <updated>2016-06-05T14:00:00Z</updated>
+    <dc:date>2016-06-05T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/80</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-04-24T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/numpy/&quot;&gt;NumPy&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/apache_pig/&quot;&gt;Apache Pig&lt;/a&gt;</summary>
+    <title>New documentations: NumPy and Apache Pig</title>
+    <updated>2016-04-24T14:00:00Z</updated>
+    <dc:date>2016-04-24T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/79</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-04-17T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/perl/&quot;&gt;Perl&lt;/a&gt;</summary>
+    <title>New documentation: Perl</title>
+    <updated>2016-04-17T14:00:00Z</updated>
+    <dc:date>2016-04-17T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/78</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-04-10T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/browser_support_tables/&quot;&gt;Support tables (caniuse.com)&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/gcc/&quot;&gt;GCC&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/gnu_fortran/&quot;&gt;GNU Fortran&lt;/a&gt;</summary>
+    <title>New documentations: Support tables (caniuse.com), GCC and GNU Fortran</title>
+    <updated>2016-04-10T14:00:00Z</updated>
+    <dc:date>2016-04-10T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/77</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-03-27T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/typescript/&quot;&gt;TypeScript&lt;/a&gt;</summary>
+    <title>New documentation: TypeScript</title>
+    <updated>2016-03-27T14:00:00Z</updated>
+    <dc:date>2016-03-27T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/76</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-03-06T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/tensorflow/&quot;&gt;TensorFlow&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/haxe/&quot;&gt;Haxe&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/ansible/&quot;&gt;Ansible&lt;/a&gt;</summary>
+    <title>New documentations: TensorFlow, Haxe and Ansible</title>
+    <updated>2016-03-06T14:00:00Z</updated>
+    <dc:date>2016-03-06T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/75</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-02-28T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/codeigniter/&quot;&gt;CodeIgniter&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/nginx_lua_module/&quot;&gt;nginx Lua Module&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/influxdata/&quot;&gt;InfluxData&lt;/a&gt;</summary>
+    <title>New documentations: CodeIgniter, nginx Lua Module and InfluxData</title>
+    <updated>2016-02-28T14:00:00Z</updated>
+    <dc:date>2016-02-28T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/74</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-02-15T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/cakephp/&quot;&gt;CakePHP&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/chef/&quot;&gt;Chef&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/ramda/&quot;&gt;Ramda&lt;/a&gt;</summary>
+    <title>New documentations: CakePHP, Chef and Ramda</title>
+    <updated>2016-02-15T14:00:00Z</updated>
+    <dc:date>2016-02-15T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/73</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-01-31T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/erlang/&quot;&gt;Erlang&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/tcl_tk/&quot;&gt;Tcl/Tk&lt;/a&gt;</summary>
+    <title>New documentations: Erlang and Tcl/Tk</title>
+    <updated>2016-01-31T14:00:00Z</updated>
+    <dc:date>2016-01-31T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/72</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2016-01-24T14:00:00Z</published>
+    <summary type="html">&amp;ldquo;Multi-version support&amp;rdquo; has landed!</summary>
+    <title>&amp;ldquo;Multi-version support&amp;rdquo; has landed!</title>
+    <updated>2016-01-24T14:00:00Z</updated>
+    <dc:date>2016-01-24T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/71</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-11-22T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/phoenix/&quot;&gt;Phoenix&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/dojo/&quot;&gt;Dojo&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/relay/&quot;&gt;Relay&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/flow/&quot;&gt;Flow&lt;/a&gt;</summary>
+    <title>New documentations: Phoenix, Dojo, Relay and Flow</title>
+    <updated>2015-11-22T14:00:00Z</updated>
+    <dc:date>2015-11-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/70</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-11-08T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/elixir/&quot;&gt;Elixir&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/vagrant/&quot;&gt;Vagrant&lt;/a&gt;</summary>
+    <title>New documentations: Elixir and Vagrant</title>
+    <updated>2015-11-08T14:00:00Z</updated>
+    <dc:date>2015-11-08T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/69</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-10-18T14:00:00Z</published>
+    <summary type="html">Added a &quot;Copy to clipboard&quot; button inside each code block.</summary>
+    <title>Added a &quot;Copy to clipboard&quot; button inside each code block.</title>
+    <updated>2015-10-18T14:00:00Z</updated>
+    <dc:date>2015-10-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/68</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-09-13T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/phalcon/&quot;&gt;Phalcon&lt;/a&gt;</summary>
+    <title>New documentation: Phalcon</title>
+    <updated>2015-09-13T14:00:00Z</updated>
+    <dc:date>2015-09-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/67</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-08-09T14:00:00Z</published>
+    <summary type="html">New documentation: &lt;a href=&quot;https://devdocs.io/react_native/&quot;&gt;React Native&lt;/a&gt;</summary>
+    <title>New documentation: React Native</title>
+    <updated>2015-08-09T14:00:00Z</updated>
+    <dc:date>2015-08-09T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/66</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-08-03T14:00:00Z</published>
+    <summary type="html">Added an icon in the sidebar to constrain the width of the UI (visible when applicable).</summary>
+    <title>Added an icon in the sidebar to constrain the width of the UI (visible when applicable).</title>
+    <updated>2015-08-03T14:00:00Z</updated>
+    <dc:date>2015-08-03T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/65</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-08-02T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/q/&quot;&gt;Q&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/opentsdb/&quot;&gt;OpenTSDB&lt;/a&gt;</summary>
+    <title>New documentations: Q and OpenTSDB</title>
+    <updated>2015-08-02T14:00:00Z</updated>
+    <dc:date>2015-08-02T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/64</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-07-26T14:00:00Z</published>
+    <summary type="html">Added search aliases (e.g. &lt;code class=&quot;_label&quot;&gt;$&lt;/code&gt; is an alias for &lt;code class=&quot;_label&quot;&gt;jQuery&lt;/code&gt;).&lt;br&gt;&lt;a href=&quot;https://devdocs.io/help#aliases&quot;&gt;Click here&lt;/a&gt; to see the full list. Feel free to suggest more on &lt;a href=&quot;https://github.com/freeCodeCamp/devdocs/issues/new&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.Added &lt;code class=&quot;_label&quot;&gt;shift + &amp;darr;/&amp;uarr;&lt;/code&gt; shortcut for scrolling (same as &lt;code class=&quot;_label&quot;&gt;alt + &amp;darr;/&amp;uarr;&lt;/code&gt;).</summary>
+    <title>Added search aliases (e.g. $ is an alias for jQuery).</title>
+    <updated>2015-07-26T14:00:00Z</updated>
+    <dc:date>2015-07-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/63</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-07-05T14:00:00Z</published>
+    <summary type="html">New documentations: &lt;a href=&quot;https://devdocs.io/drupal/&quot;&gt;Drupal&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/vue/&quot;&gt;Vue.js&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/phaser/&quot;&gt;Phaser&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/webpack/&quot;&gt;webpack&lt;/a&gt;</summary>
+    <title>New documentations: Drupal, Vue.js, Phaser and webpack</title>
+    <updated>2015-07-05T14:00:00Z</updated>
+    <dc:date>2015-07-05T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/62</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-05-24T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/rust/&quot;&gt;Rust&lt;/a&gt; documentation</summary>
+    <title>New Rust documentation</title>
+    <updated>2015-05-24T14:00:00Z</updated>
+    <dc:date>2015-05-24T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/61</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-04-26T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/apache_http_server/&quot;&gt;Apache HTTP Server&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/npm/&quot;&gt;npm&lt;/a&gt; documentations</summary>
+    <title>New Apache HTTP Server and npm documentations</title>
+    <updated>2015-04-26T14:00:00Z</updated>
+    <dc:date>2015-04-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/60</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-03-22T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/meteor/&quot;&gt;Meteor&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/mocha/&quot;&gt;mocha&lt;/a&gt; documentations</summary>
+    <title>New Meteor and mocha documentations</title>
+    <updated>2015-03-22T14:00:00Z</updated>
+    <dc:date>2015-03-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/59</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-02-22T14:00:00Z</published>
+    <summary type="html">Improved &lt;a href=&quot;https://devdocs.io/http/&quot;&gt;HTTP&lt;/a&gt; documentationNew &lt;a href=&quot;https://devdocs.io/minitest/&quot;&gt;Minitest&lt;/a&gt; documentation</summary>
+    <title>Improved HTTP documentation</title>
+    <updated>2015-02-22T14:00:00Z</updated>
+    <dc:date>2015-02-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/58</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-02-16T14:00:00Z</published>
+    <summary type="html">The sidebar is now resizable (drag &amp; drop).</summary>
+    <title>The sidebar is now resizable (drag &amp; drop).</title>
+    <updated>2015-02-16T14:00:00Z</updated>
+    <dc:date>2015-02-16T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/57</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-02-15T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/iojs/&quot;&gt;io.js&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/symfony/&quot;&gt;Symfony&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/clojure/&quot;&gt;Clojure&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/lua/&quot;&gt;Lua&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/yii1/&quot;&gt;Yii 1.1&lt;/a&gt; documentations</summary>
+    <title>New io.js, Symfony, Clojure, Lua and Yii 1.1 documentations</title>
+    <updated>2015-02-15T14:00:00Z</updated>
+    <dc:date>2015-02-15T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/56</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-02-08T14:00:00Z</published>
+    <summary type="html">New dark theme</summary>
+    <title>New dark theme</title>
+    <updated>2015-02-08T14:00:00Z</updated>
+    <dc:date>2015-02-08T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/55</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2015-01-13T14:00:00Z</published>
+    <summary type="html">&lt;a href=&quot;https://devdocs.io/offline&quot;&gt;Offline mode&lt;/a&gt; has landed!</summary>
+    <title>Offline mode has landed!</title>
+    <updated>2015-01-13T14:00:00Z</updated>
+    <dc:date>2015-01-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/54</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-12-21T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/react/&quot;&gt;React&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/rethinkdb/&quot;&gt;RethinkDB&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/socketio/&quot;&gt;Socket.IO&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/modernizr/&quot;&gt;Modernizr&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/bower/&quot;&gt;Bower&lt;/a&gt; documentations</summary>
+    <title>New React, RethinkDB, Socket.IO, Modernizr and Bower documentations</title>
+    <updated>2014-12-21T14:00:00Z</updated>
+    <dc:date>2014-12-21T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/53</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-11-30T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/phpunit/&quot;&gt;PHPUnit&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/nokogiri/&quot;&gt;Nokogiri&lt;/a&gt; documentations</summary>
+    <title>New PHPUnit and Nokogiri documentations</title>
+    <updated>2014-11-30T14:00:00Z</updated>
+    <dc:date>2014-11-30T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/52</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-11-16T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/python2/&quot;&gt;Python 2&lt;/a&gt; documentation</summary>
+    <title>New Python 2 documentation</title>
+    <updated>2014-11-16T14:00:00Z</updated>
+    <dc:date>2014-11-16T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/51</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-11-09T14:00:00Z</published>
+    <summary type="html">New design&lt;br&gt;Feedback welcome on &lt;a href=&quot;https://twitter.com/DevDocs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/freeCodeCamp/devdocs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.</summary>
+    <title>New design</title>
+    <updated>2014-11-09T14:00:00Z</updated>
+    <dc:date>2014-11-09T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/50</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-10-19T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/svg/&quot;&gt;SVG&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/marionette/&quot;&gt;Marionette.js&lt;/a&gt;, and &lt;a href=&quot;https://devdocs.io/mongoose/&quot;&gt;Mongoose&lt;/a&gt; documentations</summary>
+    <title>New SVG, Marionette.js, and Mongoose documentations</title>
+    <updated>2014-10-19T14:00:00Z</updated>
+    <dc:date>2014-10-19T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/49</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-10-18T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/nginx/&quot;&gt;nginx&lt;/a&gt; documentation</summary>
+    <title>New nginx documentation</title>
+    <updated>2014-10-18T14:00:00Z</updated>
+    <dc:date>2014-10-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/48</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-10-13T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/xpath/&quot;&gt;XPath&lt;/a&gt; documentation</summary>
+    <title>New XPath documentation</title>
+    <updated>2014-10-13T14:00:00Z</updated>
+    <dc:date>2014-10-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/47</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-09-07T14:00:00Z</published>
+    <summary type="html">Updated the HTML, CSS, JavaScript, and DOM documentations with additional content.</summary>
+    <title>Updated the HTML, CSS, JavaScript, and DOM documentations with additional content.</title>
+    <updated>2014-09-07T14:00:00Z</updated>
+    <dc:date>2014-09-07T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/46</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-08-04T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/django/&quot;&gt;Django&lt;/a&gt; documentation</summary>
+    <title>New Django documentation</title>
+    <updated>2014-08-04T14:00:00Z</updated>
+    <dc:date>2014-08-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/45</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-07-27T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/markdown/&quot;&gt;Markdown&lt;/a&gt; documentation</summary>
+    <title>New Markdown documentation</title>
+    <updated>2014-07-27T14:00:00Z</updated>
+    <dc:date>2014-07-27T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/44</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-07-05T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/cordova/&quot;&gt;Cordova&lt;/a&gt; documentation</summary>
+    <title>New Cordova documentation</title>
+    <updated>2014-07-05T14:00:00Z</updated>
+    <dc:date>2014-07-05T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/43</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-07-01T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/chai/&quot;&gt;Chai&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/sinon/&quot;&gt;Sinon&lt;/a&gt; documentations</summary>
+    <title>New Chai and Sinon documentations</title>
+    <updated>2014-07-01T14:00:00Z</updated>
+    <dc:date>2014-07-01T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/42</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-06-15T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/requirejs/&quot;&gt;RequireJS&lt;/a&gt; documentation</summary>
+    <title>New RequireJS documentation</title>
+    <updated>2014-06-15T14:00:00Z</updated>
+    <dc:date>2014-06-15T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/41</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-06-14T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/haskell/&quot;&gt;Haskell&lt;/a&gt; documentation</summary>
+    <title>New Haskell documentation</title>
+    <updated>2014-06-14T14:00:00Z</updated>
+    <dc:date>2014-06-14T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/40</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-05-25T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/laravel/&quot;&gt;Laravel&lt;/a&gt; documentation</summary>
+    <title>New Laravel documentation</title>
+    <updated>2014-05-25T14:00:00Z</updated>
+    <dc:date>2014-05-25T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/39</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-05-04T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/express/&quot;&gt;Express&lt;/a&gt;, &lt;a href=&quot;https://devdocs.io/grunt/&quot;&gt;Grunt&lt;/a&gt;, and &lt;a href=&quot;https://devdocs.io/maxcdn/&quot;&gt;MaxCDN&lt;/a&gt; documentations</summary>
+    <title>New Express, Grunt, and MaxCDN documentations</title>
+    <updated>2014-05-04T14:00:00Z</updated>
+    <dc:date>2014-05-04T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/38</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-04-06T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/go/&quot;&gt;Go&lt;/a&gt; documentation</summary>
+    <title>New Go documentation</title>
+    <updated>2014-04-06T14:00:00Z</updated>
+    <dc:date>2014-04-06T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/37</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-03-30T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/cpp/&quot;&gt;C++&lt;/a&gt; documentation</summary>
+    <title>New C++ documentation</title>
+    <updated>2014-03-30T14:00:00Z</updated>
+    <dc:date>2014-03-30T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/36</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-03-16T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/yii/&quot;&gt;Yii&lt;/a&gt; documentation</summary>
+    <title>New Yii documentation</title>
+    <updated>2014-03-16T14:00:00Z</updated>
+    <dc:date>2014-03-16T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/35</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-03-08T14:00:00Z</published>
+    <summary type="html">Added path bar.</summary>
+    <title>Added path bar.</title>
+    <updated>2014-03-08T14:00:00Z</updated>
+    <dc:date>2014-03-08T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/34</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-02-22T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/c/&quot;&gt;C&lt;/a&gt; documentation</summary>
+    <title>New C documentation</title>
+    <updated>2014-02-22T14:00:00Z</updated>
+    <dc:date>2014-02-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/33</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-02-16T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/moment/&quot;&gt;Moment.js&lt;/a&gt; documentation</summary>
+    <title>New Moment.js documentation</title>
+    <updated>2014-02-16T14:00:00Z</updated>
+    <dc:date>2014-02-16T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/32</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-02-12T14:00:00Z</published>
+    <summary type="html">The root/category pages are now included in the search index (e.g. &lt;a href=&quot;https://devdocs.io/#q=CSS&quot;&gt;CSS&lt;/a&gt;)</summary>
+    <title>The root/category pages are now included in the search index (e.g. CSS)</title>
+    <updated>2014-02-12T14:00:00Z</updated>
+    <dc:date>2014-02-12T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/31</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-01-19T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/d3/&quot;&gt;D3.js&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/knockout/&quot;&gt;Knockout.js&lt;/a&gt; documentations</summary>
+    <title>New D3.js and Knockout.js documentations</title>
+    <updated>2014-01-19T14:00:00Z</updated>
+    <dc:date>2014-01-19T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/30</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-01-18T14:00:00Z</published>
+    <summary type="html">DevDocs is now available as a &lt;a href=&quot;https://marketplace.firefox.com/app/devdocs/&quot;&gt;Firefox web app&lt;/a&gt;.</summary>
+    <title>DevDocs is now available as a Firefox web app.</title>
+    <updated>2014-01-18T14:00:00Z</updated>
+    <dc:date>2014-01-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/29</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2014-01-12T14:00:00Z</published>
+    <summary type="html">Added &lt;code class=&quot;_label&quot;&gt;alt + g&lt;/code&gt; shortcut for searching on Google.Added &lt;code class=&quot;_label&quot;&gt;alt + r&lt;/code&gt; shortcut for revealing the current page in the sidebar.</summary>
+    <title>Added alt + g shortcut for searching on Google.</title>
+    <updated>2014-01-12T14:00:00Z</updated>
+    <dc:date>2014-01-12T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/28</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-12-14T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/postgresql/&quot;&gt;PostgreSQL&lt;/a&gt; documentation</summary>
+    <title>New PostgreSQL documentation</title>
+    <updated>2013-12-14T14:00:00Z</updated>
+    <dc:date>2013-12-14T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/27</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-12-13T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/git/&quot;&gt;Git&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/redis/&quot;&gt;Redis&lt;/a&gt; documentations</summary>
+    <title>New Git and Redis documentations</title>
+    <updated>2013-12-13T14:00:00Z</updated>
+    <dc:date>2013-12-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/26</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-11-26T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/python/&quot;&gt;Python&lt;/a&gt; documentation</summary>
+    <title>New Python documentation</title>
+    <updated>2013-11-26T14:00:00Z</updated>
+    <dc:date>2013-11-26T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/25</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-11-19T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/rails/&quot;&gt;Ruby on Rails&lt;/a&gt; documentation</summary>
+    <title>New Ruby on Rails documentation</title>
+    <updated>2013-11-19T14:00:00Z</updated>
+    <dc:date>2013-11-19T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/24</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-11-16T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/ruby/&quot;&gt;Ruby&lt;/a&gt; documentation</summary>
+    <title>New Ruby documentation</title>
+    <updated>2013-11-16T14:00:00Z</updated>
+    <dc:date>2013-11-16T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/23</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-10-24T14:00:00Z</published>
+    <summary type="html">DevDocs is now &lt;a href=&quot;https://github.com/freeCodeCamp/devdocs&quot;&gt;open source&lt;/a&gt;.</summary>
+    <title>DevDocs is now open source.</title>
+    <updated>2013-10-24T14:00:00Z</updated>
+    <dc:date>2013-10-24T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/22</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-10-09T14:00:00Z</published>
+    <summary type="html">DevDocs is now available as a &lt;a href=&quot;https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe&quot;&gt;Chrome web app&lt;/a&gt;.</summary>
+    <title>DevDocs is now available as a Chrome web app.</title>
+    <updated>2013-10-09T14:00:00Z</updated>
+    <dc:date>2013-10-09T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/21</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-09-22T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/php/&quot;&gt;PHP&lt;/a&gt; documentation</summary>
+    <title>New PHP documentation</title>
+    <updated>2013-09-22T14:00:00Z</updated>
+    <dc:date>2013-09-22T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/20</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-09-06T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/lodash/&quot;&gt;Lo-Dash&lt;/a&gt; documentation On mobile devices you can now search a specific documentation by typing its name and &lt;code class=&quot;_label&quot;&gt;Space&lt;/code&gt;.</summary>
+    <title>New Lo-Dash documentation </title>
+    <updated>2013-09-06T14:00:00Z</updated>
+    <dc:date>2013-09-06T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/19</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-09-01T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/jqueryui/&quot;&gt;jQuery UI&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/jquerymobile/&quot;&gt;jQuery Mobile&lt;/a&gt; documentations</summary>
+    <title>New jQuery UI and jQuery Mobile documentations</title>
+    <updated>2013-09-01T14:00:00Z</updated>
+    <dc:date>2013-09-01T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/18</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-28T14:00:00Z</published>
+    <summary type="html">New smartphone interface&lt;br&gt;Tested on iOS 6+ and Android 4.1+</summary>
+    <title>New smartphone interface</title>
+    <updated>2013-08-28T14:00:00Z</updated>
+    <dc:date>2013-08-28T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/17</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-25T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/ember/&quot;&gt;Ember.js&lt;/a&gt; documentation</summary>
+    <title>New Ember.js documentation</title>
+    <updated>2013-08-25T14:00:00Z</updated>
+    <dc:date>2013-08-25T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/16</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-18T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/coffeescript/&quot;&gt;CoffeeScript&lt;/a&gt; documentationURL search now automatically opens the first result.</summary>
+    <title>New CoffeeScript documentation</title>
+    <updated>2013-08-18T14:00:00Z</updated>
+    <dc:date>2013-08-18T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/15</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-13T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/angularjs/&quot;&gt;Angular.js&lt;/a&gt; documentation</summary>
+    <title>New Angular.js documentation</title>
+    <updated>2013-08-13T14:00:00Z</updated>
+    <dc:date>2013-08-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/14</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-11T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/sass/&quot;&gt;Sass&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/less/&quot;&gt;Less&lt;/a&gt; documentations</summary>
+    <title>New Sass and Less documentations</title>
+    <updated>2013-08-11T14:00:00Z</updated>
+    <dc:date>2013-08-11T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/13</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-05T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/node/&quot;&gt;Node.js&lt;/a&gt; documentation</summary>
+    <title>New Node.js documentation</title>
+    <updated>2013-08-05T14:00:00Z</updated>
+    <dc:date>2013-08-05T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/12</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-08-03T14:00:00Z</published>
+    <summary type="html">Added support for OpenSearch</summary>
+    <title>Added support for OpenSearch</title>
+    <updated>2013-08-03T14:00:00Z</updated>
+    <dc:date>2013-08-03T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/11</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-30T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/backbone/&quot;&gt;Backbone.js&lt;/a&gt; documentation</summary>
+    <title>New Backbone.js documentation</title>
+    <updated>2013-07-30T14:00:00Z</updated>
+    <dc:date>2013-07-30T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/10</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-27T14:00:00Z</published>
+    <summary type="html">You can now customize the list of documentations.&lt;br&gt;New docs will be hidden by default, but you'll see a notification when there are new releases.New &lt;a href=&quot;https://devdocs.io/http/&quot;&gt;HTTP&lt;/a&gt; documentation</summary>
+    <title>You can now customize the list of documentations.</title>
+    <updated>2013-07-27T14:00:00Z</updated>
+    <dc:date>2013-07-27T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/9</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-15T14:00:00Z</published>
+    <summary type="html">URL search now works with single documentations: &lt;a href=&quot;https://devdocs.io/#q=js%20sort&quot;&gt;devdocs.io/#q=js sort&lt;/a&gt;</summary>
+    <title>URL search now works with single documentations: devdocs.io/#q=js sort</title>
+    <updated>2013-07-15T14:00:00Z</updated>
+    <dc:date>2013-07-15T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/8</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-13T14:00:00Z</published>
+    <summary type="html">Added syntax highlightingAdded documentation versions</summary>
+    <title>Added syntax highlighting</title>
+    <updated>2013-07-13T14:00:00Z</updated>
+    <dc:date>2013-07-13T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/7</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-11T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/underscore/&quot;&gt;Underscore.js&lt;/a&gt; documentation Improved compatibility with tablets&lt;br&gt;A mobile version is planned as soon as other high priority features have been implemented.</summary>
+    <title>New Underscore.js documentation </title>
+    <updated>2013-07-11T14:00:00Z</updated>
+    <dc:date>2013-07-11T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/6</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-10T14:00:00Z</published>
+    <summary type="html">You can now search specific documentations.&lt;br&gt;Simply type the documentation's name and press &lt;code class=&quot;_label&quot;&gt;Tab&lt;/code&gt;.&lt;br&gt;The name is fuzzy matched so you can use abbreviations like &lt;code&gt;js&lt;/code&gt; for &lt;code&gt;JavaScript&lt;/code&gt;.</summary>
+    <title>You can now search specific documentations.</title>
+    <updated>2013-07-10T14:00:00Z</updated>
+    <dc:date>2013-07-10T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/5</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-08T14:00:00Z</published>
+    <summary type="html">Improved search with fuzzy matching and better results&lt;br&gt;For example, searching &lt;code&gt;jqmka&lt;/code&gt; now returns &lt;code&gt;jQuery.makeArray()&lt;/code&gt;.DevDocs finally has an icon.&lt;code class=&quot;_label&quot;&gt;space&lt;/code&gt; has replaced &lt;code class=&quot;_label&quot;&gt;alt + space&lt;/code&gt; for scrolling down.</summary>
+    <title>Improved search with fuzzy matching and better results</title>
+    <updated>2013-07-08T14:00:00Z</updated>
+    <dc:date>2013-07-08T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/4</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-06T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/dom/&quot;&gt;DOM&lt;/a&gt; and &lt;a href=&quot;https://devdocs.io/dom_events/&quot;&gt;DOM Events&lt;/a&gt; documentations&lt;br&gt;DevDocs now includes almost all reference documents available on the Mozilla Developer Network.&lt;br&gt;Big thank you to Mozilla and all the people that contributed to MDN.Implemented URL search: &lt;a href=&quot;https://devdocs.io/#q=sort&quot;&gt;devdocs.io/#q=sort&lt;/a&gt;</summary>
+    <title>New DOM and DOM Events documentations</title>
+    <updated>2013-07-06T14:00:00Z</updated>
+    <dc:date>2013-07-06T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/3</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-07-02T14:00:00Z</published>
+    <summary type="html">New &lt;a href=&quot;https://devdocs.io/javascript/&quot;&gt;JavaScript&lt;/a&gt; documentation</summary>
+    <title>New JavaScript documentation</title>
+    <updated>2013-07-02T14:00:00Z</updated>
+    <dc:date>2013-07-02T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/2</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-06-28T14:00:00Z</published>
+    <summary type="html">DevDocs made the front page of Hacker News!&lt;br&gt;Hi everyone &amp;mdash; thanks for trying DevDocs.&lt;br&gt;Please bear with me while I fix bugs and scramble to add more docs.&lt;br&gt;This is only v1. There's a lot more to come.</summary>
+    <title>DevDocs made the front page of Hacker News!</title>
+    <updated>2013-06-28T14:00:00Z</updated>
+    <dc:date>2013-06-28T14:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>tag:devdocs.io,2014:News/1</id>
+    <link href="https://devdocs.io/"
+      rel="alternate"
+      type="text/html"/>
+    <published>2013-06-18T14:00:00Z</published>
+    <summary type="html">Initial release</summary>
+    <title>Initial release</title>
+    <updated>2013-06-18T14:00:00Z</updated>
+    <dc:date>2013-06-18T14:00:00Z</dc:date>
+  </entry>
+  <dc:date>2021-06-09T14:00:00Z</dc:date>
+</feed>
